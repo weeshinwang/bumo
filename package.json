@@ -1,0 +1,24 @@
+{
+  "name": "bumo",
+  "version": "1.0.0",
+  "description": "this is the repo to host things I have built which are natively implemented 😅",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weeshinwang/bumo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weeshinwang/bumo/issues"
+  },
+  "homepage": "https://github.com/weeshinwang/bumo#readme",
+  "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.18.2",
+    "jest": "^28.1.0"
+  }
+}
